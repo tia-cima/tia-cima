@@ -8,7 +8,7 @@ Currently green hat, learning about cybersecurity at uni.
 
 I code mainly with Python and its thousand frameworks, like Django, but the syntax isn't as important as the logic and the problem solving skills that can help you use whatever language you want.
 
-* [Linkedin]([https://www.linkedin.com/in/mattia-antonio-cimadomo-04016b242/]) 
-* [Website]([https://www.mattiacimadomo.it/en/])
+* [Linkedin](https://www.linkedin.com/in/mattia-antonio-cimadomo-04016b242/) 
+* [Website](https://www.mattiacimadomo.it/en/)
 
 
