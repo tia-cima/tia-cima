@@ -2,7 +2,7 @@
 
 IT specialist with an eye for open source. All my projects will forever be free. 
 
-Specialized in using and creating open source, self hosted and privacy oriented applications for my company. 
+Specialized in creating and implementing open source, self hosted and privacy oriented applications for my company. 
 
 Currently green hat, learning about cybersecurity at uni. 
 
