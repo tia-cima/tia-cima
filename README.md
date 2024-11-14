@@ -1,4 +1,4 @@
-Software engineer designing full-stack Angular and Spring Boot applications.
+Software engineer designing Spring Boot and Angular applications.
 
 Cybersecurity student at the University of Milan.
 
