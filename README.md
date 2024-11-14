@@ -1,4 +1,4 @@
-Software engineer specialized in Java Spring web and RESTful applications. 
+Software engineer designing full-stack Angular and Spring Boot applications.
 
 Cybersecurity student at the University of Milan.
 
