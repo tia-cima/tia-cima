@@ -1,6 +1,6 @@
 Software Engineer specialized in Spring Boot and Angular applications.
 
-Cybersecurity student at the University of Milan.
+Computer Science and Cybersecurity student at the University of Milan.
 
 Coding in Python for fun.
 
