@@ -1,4 +1,4 @@
-Software Engineer specialized in Spring Boot and Angular applications.
+Software Engineer specialized in Java Spring Boot applications.
 
 Computer Science and Cybersecurity student at the University of Milan.
 
