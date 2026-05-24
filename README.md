@@ -1,9 +1,5 @@
-Software Engineer specialized in Java Spring Boot applications.
+Backend Software Engineer · BSc Computer Science and Cybersecurity at University of Milan.
 
-Computer Science and Cybersecurity student at the University of Milan.
+Co-Founder [Nebulor AI](https://www.nebulor.ai/)
 
-Coding in Python for fun.
-
-* [Linkedin](https://www.linkedin.com/in/mattia-antonio-cimadomo-04016b242/)
-* [Youtube](https://www.youtube.com/@filter_chain)
-
+Creator of [Novrium](https://www.novrium.com/) and [Novrium Trading](https://trading.novrium.com/)
